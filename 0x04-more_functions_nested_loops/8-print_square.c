@@ -2,7 +2,7 @@
 
 /**
  * print_square - prints hashes square
- * @a size: size of the square
+ * @asize: size of the square
  * Return: no return
 */
 
